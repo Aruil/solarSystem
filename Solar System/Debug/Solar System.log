@@ -1,0 +1,5 @@
+﻿  visuals.cpp
+h:\solar system\solar system\visuals.cpp(187): warning C4154: deletion of an array expression; conversion to pointer supplied
+  main.cpp
+  Generating Code...
+  Solar System.vcxproj -> H:\Solar System\Debug\Solar System.exe
